@@ -120,8 +120,9 @@ contactForm.addEventListener('submit', async (e) => {
     submitBtn.textContent = 'Sending...';
 
     const data = {
-        name: document.getElementById('name').value || 'Anonymous',
-        message: document.getElementById('message').value
+        name: document.getElementById('name').value.trim() || 'Anonymous',
+        email: document.getElementById('email').value.trim(),
+        message: document.getElementById('message').value.trim()
     };
 
     try {
