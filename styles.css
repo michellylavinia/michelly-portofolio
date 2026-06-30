@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: "Inter", sans-serif;
     background: linear-gradient(to bottom right, #1a1a1a, #000000, #1a1a1a);
     color: #e5e5e5;
     line-height: 1.6;
@@ -53,9 +53,9 @@ html {
 }
 
 .logo {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     color: #3b82f6;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .nav-desktop {
@@ -142,14 +142,14 @@ html {
     font-size: 3rem;
     margin-bottom: 1rem;
     color: white;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .hero-title {
     font-size: 1.875rem;
     color: #d1d5db;
     margin-bottom: 1.5rem;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .hero-description {
@@ -172,7 +172,7 @@ html {
     text-decoration: none;
     transition: all 0.3s;
     display: inline-block;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .btn-primary {
@@ -316,7 +316,7 @@ html {
     font-size: 1.25rem;
     color: white;
     margin-bottom: 0.5rem;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .highlight-text {
@@ -514,7 +514,7 @@ html {
     font-size: 1.25rem;
     color: white;
     margin-bottom: 0.75rem;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .project-description {
@@ -602,7 +602,7 @@ html {
 .column-title {
     font-size: 1.5rem;
     color: white;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .education-card {
@@ -618,7 +618,7 @@ html {
     font-size: 1.25rem;
     color: white;
     margin-bottom: 0.5rem;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .institution {
