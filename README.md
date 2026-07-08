@@ -46,8 +46,6 @@ git clone https://github.com/michellylavinia/michelly-portofolio.git
 
 Open the project folder and launch `index.html` in your preferred web browser.
 
-Open the project folder and launch `index.html` in your preferred web browser.
-
 ## 💡 Highlights
 
 This portfolio focuses on:
